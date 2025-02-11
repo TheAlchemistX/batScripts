@@ -4,7 +4,7 @@ cls
 
 if not exist .git (
     git init
-    git remote add origin https://github.com/TheAlchemistX/test.git
+    git remote add origin https://github.com/TheAlchemistX/MinecraftServer.git
     git pull origin main
 )
 
